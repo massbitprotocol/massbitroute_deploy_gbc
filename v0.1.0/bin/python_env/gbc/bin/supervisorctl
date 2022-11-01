@@ -1,4 +1,4 @@
-#!/root/.asdf/installs/gbc/v0.0.13/bin/python_env/gbc/bin/python
+#!/root/.asdf/installs/gbc/v0.1.0/bin/python_env/gbc/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'supervisor==4.2.4','console_scripts','supervisorctl'
 __requires__ = 'supervisor==4.2.4'
 import re

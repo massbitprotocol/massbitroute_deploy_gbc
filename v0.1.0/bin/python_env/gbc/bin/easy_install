@@ -1,4 +1,4 @@
-#!/root/.asdf/installs/gbc/v0.0.13/bin/python_env/gbc/bin/python
+#!/root/.asdf/installs/gbc/v0.1.0/bin/python_env/gbc/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==41.2.0','console_scripts','easy_install'
 __requires__ = 'setuptools==41.2.0'
 import re

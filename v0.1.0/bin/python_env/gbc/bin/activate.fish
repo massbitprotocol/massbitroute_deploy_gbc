@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/root/.asdf/installs/gbc/v0.0.13/bin/python_env/gbc"
+set -gx VIRTUAL_ENV "/root/.asdf/installs/gbc/v0.1.0/bin/python_env/gbc"
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | tr "." "\n")[1] -lt 3

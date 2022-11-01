@@ -10,7 +10,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/root/.asdf/installs/gbc/v0.0.13/bin/python_env/gbc"
+setenv VIRTUAL_ENV "/root/.asdf/installs/gbc/v0.1.0/bin/python_env/gbc"
 
 set _OLD_VIRTUAL_PATH="$PATH:q"
 setenv PATH "$VIRTUAL_ENV:q/bin:$PATH:q"

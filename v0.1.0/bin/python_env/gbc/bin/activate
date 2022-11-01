@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/root/.asdf/installs/gbc/v0.0.13/bin/python_env/gbc"
+VIRTUAL_ENV="/root/.asdf/installs/gbc/v0.1.0/bin/python_env/gbc"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
